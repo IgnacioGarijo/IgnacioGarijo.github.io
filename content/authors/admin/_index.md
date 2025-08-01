@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Phd Student (ULA) / Research Assistant (AIReF)
+role: Phd Student / Research Assistant (AIReF)
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
