@@ -53,36 +53,32 @@ interests:
 education:
   - area: PhD Econ.
     institution: Universidad Loyola Andalucía
-    date_start: 01-09-2024
+    date_start: 2024-09-01
     date_end: present
     summary: |
       I am currently working on my thesis on applied micro. I just started so updates will come hopefully soon!
-    # button:
-      # text: 'Read Thesis'
-      # url: 'https://example.com' 
   - area: MRes in Economics
     institution: Institut d'études politiques de Paris (Sciences Po Paris) 
-    date_start: 15-08-2022
-    date_end: 01-06-2024
+    date_start: 2022-08-15
+    date_end: 2024-06-01
     summary: |
       GPA: 15.62/20
     button:
      text: 'Read Thesis'
      url: 'https://github.com/IgnacioGarijo/MThesisCode/blob/main/GARIJOCAMPOS_Thesis.pdf' 
-
   - area: Double BSc in Economics and BA in International Relations
     institution: Universidad Loyola Andalucía
-    date_start: 01-09-2017
-    date_end: 31-05-2022
+    date_start: 2017-09-01
+    date_end: 2022-05-31
     summary: |
       GPA: 9.36/10
-  
+
 work:
   - position: Research Assistant
     company_name: AIReF (Independent Authority for Fiscal Responsibility – Spain)
     company_url: 'https://www.airef.es/es'
     company_logo: 'logos/airef.png'
-    date_start: 24-10-2024
+    date_start: 2024-10-24
     date_end: 'present'
     summary: |2-
       I work in the Public Spending Evaluation Division, where we provide public policy evaluations to Spain’s national and regional authorities. I support senior researchers in their work, contributing across all levels — from methodology and programming to data analysis and policy insights.
@@ -91,18 +87,17 @@ work:
     company_name: Royal Economic Society
     company_url: 'https://res.org.uk/journals/the-econometrics-journal'
     company_logo: 'logos/res.png'
-    date_start: 01-08-2023
-    date_end: 31-12-2024
+    date_start: 2023-08-01
+    date_end: 2024-12-31
     summary: |
       I worked under former Data Editor Dr. Florian Oswald to ensure the reproducibility of papers accepted for publication. My role involved reviewing authors’ code and data to verify that replication packages were functional and successfully reproduced the results reported in the paper.   Most packages were written in Stata, R, or Python.
-
 
   - position: Research Assistant at Sevillian Economic Barometer and Loyola Economic Outlook
     company_name: Universidad Loyola Andalucía
     company_url: 'https://www.uloyola.es/'
     company_logo: 'logos/loyola.png'
-    date_start: 01-09-2020
-    date_end: 01-06-2021
+    date_start: 2020-09-01
+    date_end: 2021-06-01
     summary: |
       I worked with the Macroeconomics Research Group at Universidad Loyola Andalucía, conducting data analysis and economic forecasting using time series models for two quarterly publications: the [Sevillian Economic Barometer](https://economistas-sevilla.com/wp-content/uploads/2021/06/BES9-2021T2-web.pdf) and the [Loyola Economic Outlook](https://www.cea.es/upload/documentos/2022/leo_22_01.pdf). My responsibilities included data processing, model estimation, forecasting, and report drafting.
 
