@@ -11,8 +11,8 @@ design:
 sections:
   - block: collection
     content:
-      title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      title: PhD projects
+      text: As for today, this is what I believe the three chapters of my thesis will be:
       filters:
         folders:
           - project

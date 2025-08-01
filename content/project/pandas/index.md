@@ -1,13 +1,13 @@
 ---
-title: Pandas
-date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
-tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+title: 1st: Can labor market temporarity be reduced by banning temporary contracts? Experience from Spain
+#date: 2023-10-26
+#external_link: https://github.com/pandas-dev/pandas
+#tags:
+ # - Hugo
+ # - Wowchemy
+ # - Markdown
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+Using a rich administrative Social Security panel sampled at a firm level, we explore if the banning of project-based contracts (which accounts for 40% of all temporary contracts in Spain), had any impact on de facto temporarity, employment and other variables at an individual and firm level.
 
 <!--more-->
