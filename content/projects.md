@@ -11,7 +11,7 @@ design:
 sections:
   - block: collection
     content:
-      title: PhD projects
+      title: "PhD projects"
       text: "As for today, this is what I believe the three chapters of my thesis will be:"
       filters:
         folders:
@@ -21,3 +21,4 @@ sections:
       fill_image: false
       columns: 3
 ---
+
