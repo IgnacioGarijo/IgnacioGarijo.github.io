@@ -163,42 +163,42 @@ languages:
 #      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
 awards:
   - title: Fundación Ramón Areces Scholarship
-    date: '2022'
+    date: '2022-08-01'
     awarder: Fundación Ramón Areces
     icon: award
     summary: |
       Fully funded scholarship for graduate studies at Sciences Po Paris (2022-2024).
 
   - title: College of Economists of Sevilla Award
-    date: '2023'
+    date: '2023-05-01'
     awarder: Colegio de Economistas de Sevilla
     icon: award
     summary: |
       Awarded for having the second-best academic record in the region.
 
   - title: Ministry of Education Scholarship
-    date: '2020'
+    date: '2020-09-01'
     awarder: Spanish Ministry of Education
     icon: award
     summary: |
       Scholarship to collaborate with the Department of Economics.
 
   - title: Academic Excellence Scholarship
-    date: '2017'
+    date: '2017-09-01'
     awarder: Universidad Loyola Andalucía
     icon: award
     summary: |
       Awarded for academic performance during undergraduate studies.
 
   - title: Academic Excellence Scholarship
-    date: '2022'
+    date: '2022-09-01'
     awarder: Universidad Loyola Andalucía
     icon: award
     summary: |
       Awarded for academic performance during undergraduate studies.
 
   - title: Banco Santander Scholarship
-    date: '2019'
+    date: '2019-05-01'
     awarder: Banco Santander
     icon: award
     summary: |
