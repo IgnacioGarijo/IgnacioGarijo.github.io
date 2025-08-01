@@ -54,7 +54,7 @@ education:
   - area: PhD Econ.
     institution: Universidad Loyola Andalucía
     date_start: 2024-09-01
-    date_end: present
+    date_end: 
     summary: |
       I am currently working on my thesis on applied micro. I just started so updates will come hopefully soon!
   - area: MRes in Economics
@@ -79,7 +79,7 @@ work:
     company_url: 'https://www.airef.es/es'
     company_logo: 'logos/airef.png'
     date_start: 2024-10-24
-    date_end: 'present'
+    date_end: 
     summary: |2-
       I work in the Public Spending Evaluation Division, where we provide public policy evaluations to Spain’s national and regional authorities. I support senior researchers in their work, contributing across all levels — from methodology and programming to data analysis and policy insights.
 
