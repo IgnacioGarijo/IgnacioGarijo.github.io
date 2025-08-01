@@ -1,13 +1,7 @@
 ---
-title: scikit-learn
-date: 2023-10-26
-external_link: https://github.com/scikit-learn/scikit-learn
-tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+title: Impact of raising minimum wages on housing decisions
+date: 
 ---
 
-scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.
-
+Using a rich household-level panel dataset and a Difference-in-Differences approach, I estimate the impact of the 2019 increase in the Spanish minimum wage on housing outcomes. The analysis aims to shed light on how higher minimum wages may influence homeownership rates, housing allocation decisions, and overall housing conditions.
 <!--more-->
