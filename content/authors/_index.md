@@ -1,9 +1,10 @@
 ---
-# To publish author profile pages, remove all the `_build` and `cascade` settings below.
-_build:
-  render: never
-cascade:
-  _build:
-    render: never
-    list: always
+name: Ignacio Garijo Campos
+avatar: avatar.jpg
+role: Doctorando en Economía
+bio: Especializado en microeconometría aplicada.
+location: Sevilla, España
+organization: Universidad
+superuser: true
 ---
+
