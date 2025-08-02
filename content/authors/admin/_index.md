@@ -165,42 +165,42 @@ awards:
   - title: Fundación Ramón Areces Scholarship
     date: '2022-08-01'
     awarder: Fundación Ramón Areces
-    icon: award
+    icon: trophy
     summary: |
       Fully funded scholarship for graduate studies at Sciences Po Paris (2022-2024).
 
   - title: College of Economists of Sevilla Award
     date: '2023-05-01'
     awarder: Colegio de Economistas de Sevilla
-    icon: award
+    icon: trophy
     summary: |
       Awarded for having the second-best academic record in the region.
 
   - title: Ministry of Education Scholarship
     date: '2020-09-01'
     awarder: Spanish Ministry of Education
-    icon: award
+    icon: trophy
     summary: |
       Scholarship to collaborate with the Department of Economics.
 
   - title: Academic Excellence Scholarship
     date: '2017-09-01'
     awarder: Universidad Loyola Andalucía
-    icon: award
+    icon: trophy
     summary: |
       Awarded for academic performance during undergraduate studies.
 
   - title: Academic Excellence Scholarship
     date: '2022-09-01'
     awarder: Universidad Loyola Andalucía
-    icon: award
+    icon: trophy
     summary: |
       Awarded for academic performance during undergraduate studies.
 
   - title: Banco Santander Scholarship
     date: '2019-05-01'
     awarder: Banco Santander
-    icon: award
+    icon: trophy
     summary: |
       Fully funded scholarship for international studies in Chile.
 
