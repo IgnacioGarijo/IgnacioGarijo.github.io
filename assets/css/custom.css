@@ -1,12 +1,21 @@
+/* Imagen avatar */
 .resume-biography .avatar {
   max-width: 300px !important;
   max-height: 300px !important;
-  width: auto !important;
-  height: auto !important;
+  width: 300px !important;    /* aquí pon width fijo para controlar tamaño */
+  height: 300px !important;   /* igual para height */
+  object-fit: cover;          /* para que la imagen mantenga proporción */
+  display: block;             /* evitar espacios extra o inline */
+  margin: 0 auto;             /* centrar horizontalmente */
 }
-.avatar-wrapper img.avatar {
-  width: 300px !important;
-  height: 300px !important;
-  max-width: none !important;
-  max-height: none !important;
+
+/* Contenedor */
+.avatar-wrapper {
+  width: 320px;               /* un poco más grande que la imagen */
+  height: auto;               /* que se ajuste a la altura */
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;         /* si usas span emoji dentro */
+  overflow: hidden;           /* recortar lo que sobresalga */
+  text-align: center;         /* centrar contenido */
 }
