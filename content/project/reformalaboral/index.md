@@ -1,6 +1,5 @@
 ---
 title: "Can labor market temporarity be reduced by banning temporary contracts? Experience from Spain"
-date: 
 #external_link: https://github.com/pandas-dev/pandas
 #tags:
  # - Hugo

@@ -1,6 +1,5 @@
 ---
 title: Exploring teacher’s repetition biases with a survey experiment
-date: 
 external_link: 
 ---
 
