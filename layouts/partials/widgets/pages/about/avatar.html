@@ -1,5 +1,11 @@
 {{/* layouts/partials/widgets/pages/about/avatar.html */}}
 
 {{ with site.Params.author.avatar }}
-  <img src="{{ . }}" alt="Avatar" class="avatar rounded-full" width="300" height="300">
+  {{ $avatar := resources.Get . }}
+  {{ with $avatar.Resize "300x300 q75" }}
+    <img src="{{ .RelPermalink }}" alt="Avatar" class="avatar rounded-full" width="300" height="300">
+  {{ else }}
+    <!-- fallback por si no se puede redimensionar -->
+    <img src="{{ $avatar.RelPermalink }}" alt="Avatar" class="avatar rounded-full" width="300" height="300">
+  {{ end }}
 {{ end }}
