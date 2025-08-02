@@ -19,3 +19,9 @@
   overflow: hidden;           /* recortar lo que sobresalga */
   text-align: center;         /* centrar contenido */
 }
+
+.custom-avatar {
+  width: 300px;
+  height: 300px;
+  object-fit: cover; /* para que mantenga proporción y se recorte si es necesario */
+}
