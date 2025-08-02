@@ -109,7 +109,7 @@ skills:
       - name: R & RStudio
         description: ''
         percent: 100
-        icon: ai-graduation-cap
+        icon: 'ai ai-graduation-cap'
       - name: Stata
         description: ''
         percent: 100
