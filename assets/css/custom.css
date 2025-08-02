@@ -4,7 +4,9 @@
   width: auto !important;
   height: auto !important;
 }
-.avatar-wrapper {
+.avatar-wrapper img.avatar {
   width: 300px !important;
   height: 300px !important;
+  max-width: none !important;
+  max-height: none !important;
 }
