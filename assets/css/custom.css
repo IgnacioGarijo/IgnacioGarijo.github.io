@@ -25,3 +25,11 @@
   height: 300px;
   object-fit: cover; /* para que mantenga proporción y se recorte si es necesario */
 }
+
+.avatar {
+  width: 300px !important;
+  height: 300px !important;
+  max-width: none !important;
+  max-height: none !important;
+  object-fit: cover;
+}
