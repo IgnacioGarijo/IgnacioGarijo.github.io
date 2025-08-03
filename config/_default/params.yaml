@@ -13,9 +13,9 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
-    twitter: 'GetResearchDev'
+    org_name: 'Ignacio Garijo Campos'
+    description: "Web personal de Ignacio Garijo Campos, economista e investigador"
+    twitter: 'Ignacio_Garijo'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
