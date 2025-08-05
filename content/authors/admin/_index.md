@@ -11,7 +11,7 @@ last_name: Garijo Campos
 
 # Status emoji
 status:
-  icon: 💻
+  icon: Rstudio
 
 # Is this the primary user of the site?
 superuser: true
