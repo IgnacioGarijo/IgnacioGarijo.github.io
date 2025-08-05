@@ -122,6 +122,10 @@ skills:
         description: ''
         percent: 20
         icon: robot
+      - name: Quarto Markdown
+        description: ''
+        percent: 100
+        icon: robot
 
   #- name: Hobbies
    # color: '#eeac02'
