@@ -1,0 +1,18 @@
+{{/* layouts/partials/widgets/pages/about/avatar.html */}}
+
+{{ $authorPage := site.GetPage "authors/admin" }}
+{{ if $authorPage }}
+  {{ $avatar := $authorPage.Resources.GetMatch "avatar.jpg" }}
+  {{ if $avatar }}
+    <div class="avatar-wrapper" style="width: 300px; height: 300px;">
+      {{ $avatar_image := $avatar.Fill "300x300 Center" }}
+      <img class="avatar rounded-full" src="{{ $avatar_image.RelPermalink }}" alt="{{ $authorPage.Title }}" style="width: 300px; height: 300px; object-fit: cover;">
+    </div>
+  {{ else }}
+    <!-- fallback si no hay avatar -->
+    <p>No avatar found</p>
+  {{ end }}
+{{ else }}
+  <!-- fallback si no encuentra la página -->
+  <p>Author page not found</p>
+{{ end }}
