@@ -208,8 +208,8 @@ awards:
 
 ## About Me
 
-Hello! My name is Ignacio Garijo Campos. I was born in the south of Spain, in the beautiful city of Sevilla, where I currently live after spending a couple of years studying abroad in Paris. I am a PhD candidate at Universidad Loyola Andalucía, where I conduct research in applied microeconometrics, focusing on labor, education, and public econ. I also work at AIReF, the Spanish government agency responsible for supporting national and regional authorities through public policy analysis.
+Hello! My name is Ignacio Garijo Campos. I was born in the south of Spain, in the beautiful city of Sevilla, where I currently live after spending a couple of years studying abroad in Paris (Sciences Po School of Research). I am a PhD candidate at Universidad Loyola Andalucía, where I conduct research in applied microeconometrics, focusing on labor, education, and public econ. I also work at AIReF, the Spanish government agency responsible for supporting national and regional authorities through public policy analysis.
 
-I am passionate about data analysis and all things related to public economics. With a strong research-oriented background, my goal is to work with institutions that conduct policy analysis and provide evidence-based insights to help decision-makers. I mostly code in R, though I also use Stata and have beginner-level experience with Python.
+I am passionate about data analysis and all things related to public economics. With a strong research-oriented background, my goal is to work with institutions that conduct policy analysis and provide evidence-based insights to help decision-makers. I mostly code in R, though I also use Stata and have beginner-level experience with Python.  I am a little nerdy about dataviz, so you will probably find me spending a little too long choosing colors for my graphs or making quarto markdown presentations in .html.
 
-Spanish is my native language, but I am also proficient in English and French at a professional level—so feel free to reach out in whichever language you're most comfortable with.
+Spanish is my native language, but I am also proficient in English and French at a professional level, so feel free to reach out in whichever language you're most comfortable with.
